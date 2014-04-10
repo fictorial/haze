@@ -27,5 +27,9 @@
   "bugs": {
     "url": "https://github.com/fictorial/haze/issues"
   },
-  "homepage": "https://github.com/fictorial/haze"
+  "homepage": "https://github.com/fictorial/haze",
+  "dependencies": {
+    "underscore": "^1.6.0",
+    "uuid": "^1.4.1"
+  }
 }
