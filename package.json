@@ -1,0 +1,31 @@
+{
+  "name": "haze",
+  "version": "1.0.0",
+  "description": "An in-memory document cache",
+  "main": "haze.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fictorial/haze.git"
+  },
+  "keywords": [
+    "haze",
+    "cache",
+    "document",
+    "document-database",
+    "database",
+    "doc",
+    "document",
+    "database",
+    "object",
+    "in-memory"
+  ],
+  "author": "Brian Hammond <brian@fictorial.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fictorial/haze/issues"
+  },
+  "homepage": "https://github.com/fictorial/haze"
+}
